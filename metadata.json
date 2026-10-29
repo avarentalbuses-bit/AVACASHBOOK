@@ -1,0 +1,6 @@
+{
+  "name": "AVA Accounting",
+  "description": "Secure accounts management system for AVA Passengers Transport by Rental Buses LLC with accurate store sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
